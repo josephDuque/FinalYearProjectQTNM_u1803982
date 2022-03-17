@@ -4,6 +4,7 @@
 #include <math.h>
 #include "magneticTrap.h"
 
+
 //Calculate fraction of speed of light:
 double calculateBeta(double T) {
   double eMass = 9.10938356*pow(10.0,-31.0);
