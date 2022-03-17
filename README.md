@@ -55,7 +55,8 @@ for a given position
   simulaton setup ran 100 lock-in amplifiers, each scanning for the signal
   frequency within their own bandwidths. 
 
-5_Pictures -pictures used in the latex code for the final report.
+5_FinalReport -latex code for the final report and the pictures used in 
+  the final report.
 
 In addition to the main codes, each folder contains python/matlab code that was
 used to analyse what the issues with code written during the time of the project
