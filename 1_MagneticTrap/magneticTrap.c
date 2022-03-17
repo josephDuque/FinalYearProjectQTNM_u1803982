@@ -3,6 +3,7 @@
 #define _use_math_defines
 #include <math.h>
 
+
 double centralField(double radius, double current, double mu) {
   double centralField = (current*mu)/(2.0*radius);
   return centralField;
